@@ -1,4 +1,4 @@
-# Magento2_SendInvoiceEmailWithShipmentEmail
+# Magento2_SendInvoiceEmailWithShipment
 
 This module shifts the trigger of the transactional invoice email from the invoice creation to the shipment creation. 
 
