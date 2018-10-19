@@ -1,4 +1,4 @@
-# Magento 2 Send your InvoiceEmail when Shipment is created
+# Magento 2 Send your Invoice Email when Shipment is created
 
 This module shifts the trigger of the transactional invoice email from the invoice creation to the shipment creation. 
 
